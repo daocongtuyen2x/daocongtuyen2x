@@ -1,4 +1,4 @@
-👋 ##Hi there, 
+👋 Hi there, 
 -  I’m Đào Công Tuyền.
 - 👀 I’m interested in Machine Learning, Deep Learning and Computer Vison.
 - 🌱 I’m currently a AI student at FPT University.
